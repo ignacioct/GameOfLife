@@ -7,7 +7,7 @@ Proyecto acerca del Juego de la vida de Conway para Teoría Avanzada de la Compu
 Se adjunta la memoria del trabajo en formato pdf
 
 ## Presentación
-En la carpeta presentación se adjuntan las transparecias en formato pdf (gifs no reproducibles) y en formato .pptx (gifs reproducibles). Disponible, además, como charla grabada en este [enlace](https://youtu.be/bk4K9TincYU)
+En la carpeta presentación se adjuntan las transparecias en formato pdf (gifs no reproducibles) y en formato .pptx (gifs reproducibles). Disponible, además, como charla grabada en este [enlace](https://youtu.be/6B7s56z6QC4)
 
 ## Simulador
 ### Jupyter Notebook desde Github
